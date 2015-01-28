@@ -1,0 +1,127 @@
+      body {
+        margin: 0px;
+        padding: 0px;
+      }
+      
+	  canvas{
+        border: 2px solid;
+		border-radius: 5px;
+		-moz-border-radius: 5px;
+		-webkit-border-radius: 5px;
+      }
+
+	  select {
+	  	text-align: center;
+        color: black;
+        font-family: "Impact";
+		font-size: 20pt;
+        border: 2px solid black;
+		border-radius: 5px;
+		-moz-border-radius: 5px;
+		-webkit-border-radius: 5px;
+		background-color: white;
+	  }	
+
+	  img {
+	  	width: 135px;
+	  	height: 40px;
+	  }
+
+	  p {
+	  	width: 500px;
+        color: black;
+        font-family: "Impact";
+		font-size: 20pt;	  	
+	  	text-align: center;
+		background-color: white;
+	  }	      
+
+	  #title {
+        font-size: 50pt;
+        width: 500px;
+        color: white;
+        font-family: "Impact";
+        border: 2px solid #6495ED;
+		border-radius: 5px;
+		-moz-border-radius: 5px;
+		-webkit-border-radius: 5px;
+		background-color: #6495ED;
+	  }	
+	  #instruc {
+	  	width: 500px;
+        color: black;
+        font-family: "Impact";
+		font-size: 20pt;
+        border: 2px solid black;
+		border-radius: 5px;
+		-moz-border-radius: 5px;
+		-webkit-border-radius: 5px;
+		background-color: white;
+	  }	
+	  #instruclong {
+	  	width: 500px;
+        color: black;
+        font-family: "Impact";
+		font-size: 20pt;
+        border: 2px solid black;
+		border-radius: 5px;
+		-moz-border-radius: 5px;
+		-webkit-border-radius: 5px;
+		background-color: white;
+	  }		  	  	    
+	  #restartbtn {	
+        color: white;
+        font-family: "Impact";
+		font-size: 20pt;
+        border: 2px solid #FFD700;
+		border-radius: 5px;
+		-moz-border-radius: 5px;
+		-webkit-border-radius: 5px;
+		background-color: #FFD700;
+		cursor: pointer;
+	  }	
+	  #backbtn {	
+        color: white;
+        font-family: "Impact";
+		font-size: 20pt;
+        border: 2px solid #FF4500;
+		border-radius: 5px;
+		-moz-border-radius: 5px;
+		-webkit-border-radius: 5px;
+		background-color: #FF4500;
+		cursor: pointer;
+	  }		  
+	  #scoree {
+	  	width: 500px;
+        color: white;
+        font-family: "Impact";
+		font-size: 20pt;
+        border: 2px solid #5F9EA0;
+		border-radius: 5px;
+		-moz-border-radius: 5px;
+		-webkit-border-radius: 5px;
+		background-color: #5F9EA0;
+	  }	
+	  #bestscoree {
+	  	width: 500px;
+        color: white;
+        font-family: "Impact";
+		font-size: 20pt;
+        border: 2px solid #32CD32;
+		border-radius: 4px;
+		-moz-border-radius: 5px;
+		-webkit-border-radius: 5px;
+		background-color: #32CD32;
+	  }	
+	  #timer {
+	  	color: white;
+	  	width: 500px;
+        font-family: "Impact";
+		font-size: 20pt;
+        border: 2px solid #FF4500;
+		border-radius: 4px;
+		-moz-border-radius: 5px;
+		-webkit-border-radius: 5px;
+		background-color: #FF4500;
+	  }		  	  
+  	
